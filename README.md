@@ -28,13 +28,38 @@
 
 ## Capturas de pantalla
 
-A continuación se muestran algunas capturas de pantalla de la interfaz de Tobias:
+A continuación se muestran algunas capturas de pantalla de la interfaz de Tobias, en las pruebas, intenté equivocarme en la manera que escribía, para que de esa forma se demuestre el funcionamiento del NLP:
 
 ![Captura 1](capturas/captura1.png)
 ![Captura 2](capturas/captura2.png)
 ![Captura 3](capturas/captura3.png)
 ![Captura 4](capturas/captura4.png)
 ![Captura 5](capturas/captura5.png)
+![Captura 6](capturas/captura6.png)
+![Captura 7](capturas/captura7.png)
+
+Estas son solo algunas de las preguntas y respuestas que pueden hacerle, pero puedes probarlo con:
+
+1. ¿Cuál es el plan de estudios de la carrera?
+2. ¿Cuáles son los requisitos de ingreso para la carrera?
+3. ¿Qué oportunidades de prácticas profesionales hay disponibles para los estudiantes?
+4. ¿La carrera ofrece programas de intercambio estudiantil?
+5. ¿Qué habilidades se desarrollan durante la carrera?
+6. ¿Cuáles son las áreas de especialización disponibles?
+7. ¿Qué tipo de proyectos se realizan durante la carrera?
+8. ¿Existen programas de tutorías o apoyo académico para los estudiantes?
+9. ¿Cuál es la carga académica promedio por semestre?
+10. ¿La carrera tiene convenios con empresas o instituciones externas?
+11. ¿Qué oportunidades de empleo existen para los graduados?
+12. ¿La carrera ofrece posibilidades de continuidad académica, como maestrías o doctorados?
+13. ¿Qué recursos tecnológicos están disponibles para los estudiantes?
+14. ¿Cuáles son los requisitos de titulación para los estudiantes?
+15. ¿La carrera cuenta con laboratorios especializados?
+16. ¿Qué tipo de proyectos o investigaciones se realizan en el departamento o facultad?
+17. ¿Cuál es el perfil del profesorado de la carrera?
+18. ¿Cuál es el promedio de egresados que encuentran empleo después de graduarse?
+19. ¿La carrera organiza eventos o conferencias relacionadas con el campo de la ingeniería en sistemas?
+20. ¿Cuál es la reputación de la carrera en el ámbito profesional y académico?
 
 ¡Disfruta de la experiencia interactiva con Tobias!
 

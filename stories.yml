@@ -1,0 +1,106 @@
+# stories.yml
+stories:
+- story: Pregunta sobre la carrera
+  steps:
+  - intent: descripcion_carrera
+  - action: utter_descripcion_carrera
+
+- story: Pregunta sobre qué es la ingeniería en sistemas
+  steps:
+  - intent: que_es_ing_sistemas
+  - action: utter_que_es_ing_sistemas
+
+- story: Pregunta sobre habilidades para la carrera
+  steps:
+  - intent: habilidades_ing_sistemas
+  - action: utter_habilidades_ing_sistemas
+
+- story: Pregunta sobre las materias de la carrera
+  steps:
+  - intent: materias_ing_sistemas
+  - action: utter_materias_ing_sistemas
+
+- story: Pregunta sobre conocimientos previos
+  steps:
+  - intent: conocimientos_previos
+  - action: utter_conocimientos_previos
+
+- story: Pregunta sobre la duración de la carrera
+  steps:
+  - intent: duracion_carrera
+  - action: utter_duracion_carrera
+
+- story: Pregunta sobre las áreas de trabajo
+  steps:
+  - intent: areas_trabajo
+  - action: utter_areas_trabajo
+
+- story: Pregunta sobre las principales áreas de trabajo
+  steps:
+  - intent: principales_areas
+  - action: utter_principales_areas
+
+- story: Pregunta sobre el campo laboral
+  steps:
+  - intent: campo_laboral
+  - action: utter_campo_laboral
+
+- story: Pregunta sobre las competencias necesarias
+  steps:
+  - intent: competencias_habilidades
+  - action: utter_competencias_habilidades
+
+- story: Pregunta sobre habilidades y herramientas necesarias
+  steps:
+  - intent: habilidades_herramientas
+  - action: utter_habilidades_herramientas
+
+- story: Pregunta sobre programas importantes
+  steps:
+  - intent: programas_importantes
+  - action: utter_programas_importantes
+
+- story: Pregunta sobre habilidades matemáticas
+  steps:
+  - intent: habilidades_matematicas
+  - action: utter_habilidades_matematicas
+
+- story: Pregunta sobre proyectos y especializaciones
+  steps:
+  - intent: proyectos_especializaciones
+  - action: utter_proyectos_especializaciones
+
+- story: Pregunta sobre tipo de proyectos
+  steps:
+  - intent: tipo_proyectos
+  - action: utter_tipo_proyectos
+
+- story: Pregunta sobre combinar carrera
+  steps:
+  - intent: combinar_carrera
+  - action: utter_combinar_carrera
+
+- story: Pregunta sobre información adicional
+  steps:
+  - intent: informacion_adicional
+  - action: utter_informacion_adicional
+
+- story: Pregunta sobre estudiar a distancia
+  steps:
+  - intent: estudiar_distancia
+  - action: utter_estudiar_distancia
+
+- story: Pregunta sobre salario promedio
+  steps:
+  - intent: salario_promedio
+  - action: utter_salario_promedio
+
+- story: Saludo
+  steps:
+  - intent: greet
+  - action: utter_greet
+
+- story: Despedida
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye

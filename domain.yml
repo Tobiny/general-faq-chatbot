@@ -1,0 +1,87 @@
+# domain.yml
+intents:
+- descripcion_carrera
+- que_es_ing_sistemas
+- habilidades_ing_sistemas
+- materias_ing_sistemas
+- conocimientos_previos
+- duracion_carrera
+- areas_trabajo
+- principales_areas
+- campo_laboral
+- competencias_habilidades
+- habilidades_herramientas
+- programas_importantes
+- habilidades_matematicas
+- proyectos_especializaciones
+- tipo_proyectos
+- combinar_carrera
+- informacion_adicional
+- estudiar_distancia
+- salario_promedio
+- greet
+- goodbye
+
+responses:
+  utter_descripcion_carrera:
+  - text: "¿Qué quieres saber sobre la carrera? las preguntas son:\n ¿Qué es la ingeniería en sistemas computacionales?\n ¿Qué habilidades se necesitan para estudiar ingeniería en sistemas computacionales?\n¿Qué materias se estudian en la carrera de ingeniería en sistemas computacionales?\n¿Es necesario tener conocimientos previos en programación para estudiar ingeniería en sistemas computacionales?\n¿Cuánto tiempo dura la carrera de ingeniería en sistemas computacionales?"
+
+  utter_que_es_ing_sistemas:
+  - text: "La ingeniería en sistemas computacionales es una disciplina que se encarga del diseño, desarrollo, implementación y mantenimiento de sistemas computacionales, así como de la integración de hardware y software."
+
+  utter_habilidades_ing_sistemas:
+  - text: "Las habilidades que se necesitan para estudiar ingeniería en sistemas computacionales son:\nHabilidades de comunicación\nHabilidades de análisis\nHabilidades de resolución de problemas\nHabilidades de trabajo en equipo\nHabilidades de liderazgo\nHabilidades de gestión de proyectos\nHabilidades de gestión del tiempo\nHabilidades de organización"
+
+  utter_materias_ing_sistemas:
+  - text: "Las materias que se estudian en la carrera de ingeniería en sistemas computacionales son:\nMatemáticas\nFísica\nQuímica\nProgramación\nEstructura de datos\nAlgoritmos\nBases de datos\nRedes de computadoras\nSistemas operativos\nInteligencia artificial"
+
+  utter_conocimientos_previos:
+  - text: "No, no es necesario tener conocimientos previos en programación para estudiar ingeniería en sistemas computacionales, ya que se enseñan desde cero."
+
+  utter_duracion_carrera:
+  - text: "La carrera de ingeniería en sistemas computacionales dura 4 años y medio o 9 semestres, pero puede durar más tiempo si se cursan materias optativas o se hace un intercambio académico."
+
+  utter_areas_trabajo:
+  - text: "¿Qué quieres saber sobre las áreas de trabajo? las preguntas son:\n¿Cuáles son las principales áreas de trabajo de un ingeniero en sistemas computacionales?\n¿Cómo es el campo laboral para los ingenieros en sistemas computacionales?\n¿Cuáles son las principales competencias o habilidades que debe tener un ingeniero en sistemas computacionales para desempeñarse en su área de trabajo?"
+
+  utter_principales_areas:
+  - text: "Las principales áreas de trabajo de un ingeniero en sistemas computacionales son:\nDesarrollo de software\nDesarrollo web\nDesarrollo de aplicaciones móviles\nDesarrollo de videojuegos\nDesarrollo de aplicaciones de escritorio\nDesarrollo de aplicaciones empresariales"
+
+  utter_campo_laboral:
+  - text: "El campo laboral para los ingenieros en sistemas computacionales es muy amplio, ya que pueden trabajar en cualquier empresa que requiera de sus servicios."
+
+  utter_competencias_habilidades:
+  - text: "Las principales competencias o habilidades que debe tener un ingeniero en sistemas computacionales para desempeñarse en su área de trabajo son:\nHabilidades de comunicación\nHabilidades de análisis\nHabilidades de resolución de problemas\nHabilidades de trabajo en equipo\nHabilidades de liderazgo\nHabilidades de gestión de proyectos"
+
+  utter_habilidades_herramientas:
+  - text: "¿Qué quieres saber sobre las habilidades y herramientas necesarias? las preguntas son:\n¿Qué programas o software son importantes para aprender en la carrera de ingeniería en sistemas computacionales?\n¿Es necesario tener habilidades matemáticas avanzadas para estudiar ingeniería en sistemas computacionales?"
+
+  utter_programas_importantes:
+  - text: "Algunos de los programas y herramientas más importantes que se utilizan en la carrera incluyen: lenguajes de programación como Java, Python y C++; bases de datos como MySQL y Oracle; herramientas de desarrollo integrado como Eclipse y Visual Studio; y herramientas de gestión de proyectos como JIRA y Trello."
+
+  utter_habilidades_matematicas:
+  - text: "No, no es necesario tener habilidades matemáticas avanzadas para estudiar ingeniería en sistemas computacionales, ya que se enseñan desde cero, pero es recomendable tener conocimientos básicos de matemáticas."
+
+  utter_proyectos_especializaciones:
+  - text: "¿Qué quieres saber sobre los proyectos y especializaciones? las preguntas son:\n¿Qué tipo de proyectos se pueden desarrollar en la carrera de ingeniería en sistemas computacionales?\n¿Es posible combinar la carrera de ingeniería en sistemas computacionales con otra carrera o especialización?\n¿Cuáles son las especializaciones más comunes de la carrera de ingeniería en sistemas computacionales?"
+
+  utter_tipo_proyectos:
+  - text: "Algunos de los proyectos que se pueden desarrollar en la carrera de ingeniería en sistemas computacionales son:\nDesarrollo de software\nDesarrollo web\nDesarrollo de aplicaciones móviles\nDesarrollo de videojuegos\nDesarrollo de aplicaciones de escritorio\nDesarrollo de aplicaciones empresariales"
+
+  utter_combinar_carrera:
+  - text: "Sí, es posible combinar la carrera de ingeniería en sistemas computacionales con otra carrera o especialización, ya que se pueden cursar materias optativas, hacer un intercambio académico o estudiar una maestría."
+
+  utter_informacion_adicional:
+  - text: "¿Qué quieres saber sobre la información adicional? las preguntas son:\n¿Es posible estudiar ingeniería en sistemas computacionales a distancia?\n¿Cuál es el salario promedio de un ingeniero en sistemas computacionales en México?"
+
+  utter_estudiar_distancia:
+  - text: "Sí, es posible estudiar ingeniería en sistemas computacionales a distancia, ya que en esta institución ITCG se ofrece la modalidad de educación a distancia."
+
+  utter_salario_promedio:
+  - text: "El salario promedio de un ingeniero en sistemas computacionales en México es de $20,000 MXN mensuales, pero puede variar dependiendo de la empresa y la experiencia del ingeniero."
+
+  utter_greet:
+  - text: "¡Hola! Soy Tobias, el Robotino Informativo. Estoy aquí para responder tus preguntas sobre la carrera de Ingeniería en Sistemas Computacionales. ¿En qué puedo ayudarte?"
+
+  utter_goodbye:
+  - text: "¡Gracias por consultar con Tobias, el Robotino Informativo! Si tienes más preguntas, no dudes en hacerlas. ¡Hasta luego!"
